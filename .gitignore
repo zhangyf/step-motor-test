@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+CMakeCache.txt
+CMakePresets.json
+.vscode
+query.json
+cmake.*
+CMakeConfigureLog.yaml
+CmakeSystem.cmake
+
+out/
+build/
+CmakeFiles/
+cmake_install.cmake
+Makefile
